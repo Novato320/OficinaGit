@@ -2,14 +2,14 @@ programa
 {
 	funcao inicio()
 	{
-		escreva("Olá Mundo")
-		escreva("Guilherme Jaques")
+		escreva("OlÃ¡ Mundo")
+		escreva("Guilherme Jaques, 30/09")
 	}
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 88; 
  * @PONTOS-DE-PARADA = ;
