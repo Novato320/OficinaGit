@@ -3,7 +3,7 @@ programa
 	funcao inicio()
 	{
 		escreva("Olá Mundo")
-		escreva("Guilherme Jaques, 30/09")
+		escreva("Guilherme Jaques, 02/10")
 	}
 }
 /* $$$ Portugol Studio $$$ 
